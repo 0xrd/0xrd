@@ -2,4 +2,4 @@
 
 Infosec practioner, Lifelong learner.
 
-<script src="https://tryhackme.com/badge/630631"></script>
+![](https://tryhackme.com/badge/630631)
